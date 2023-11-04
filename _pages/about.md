@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am Yuemin Li, a second-year PhD student at Queen Mary University of London, supervised by [Dr Matteo Fumagalli](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en) and [Prof Laurent Frantz](https://scholar.google.co.uk/citations?user=DCk3qbcAAAAJ&hl=en). My PhD research is focused on population genetics to understand the evolutionary processes in the past, especially on domesticated animals.
+Hello! I am Yuemin Li, a second-year PhD student at Queen Mary University of London, supervised by [Dr Matteo Fumagalli](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en) and [Prof Laurent Frantz](https://scholar.google.co.uk/citations?user=DCk3qbcAAAAJ&hl=en). 
+
+My PhD research is focused on population genetics to understand the evolutionary processes in the past, especially on domesticated animals.
 
 I gratuated from Imperial College London in 2021 with an MSc degree in Taxonomy, Biodiversity and Evolution. And I obtained my BSc (Hons) degree in Biological Sciences from University of Birmingham in 2020. 
 
