@@ -3,7 +3,7 @@ layout: page
 permalink: /training/
 title: Training
 description: 
-nav: true
+nav: false
 nav_order: 5
 ---
 

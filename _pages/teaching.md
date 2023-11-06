@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description:   Courses/Modules that I have TAed.
-nav: true
+nav: false
 nav_order: 5
 ---
 

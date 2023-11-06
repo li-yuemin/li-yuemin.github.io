@@ -984,6 +984,10 @@ progress::-moz-progress-bar {
   }
 }
 
+.dropdown-toggle::after {
+  display: none;
+}
+
 /* Table of Contents */
 nav[data-toggle="toc"] {
   top: 5rem;
