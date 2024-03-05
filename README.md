@@ -1,1 +1,1 @@
-li-yuemin.github.io/
+https://li-yuemin.github.io
