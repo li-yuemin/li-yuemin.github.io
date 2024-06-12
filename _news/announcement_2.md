@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I won the [best poster](/assets/pdf/poster_popgroup57.pdf) prize in the Biology department at the QMUL SBBS Postgraduate Research Symposium. :hatching_chick:
+I won the best poster prize in the Biology department at the QMUL SBBS Postgraduate Research Symposium. :hatching_chick:
